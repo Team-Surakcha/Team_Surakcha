@@ -21,12 +21,15 @@ https://www.kali.org/get-kali/#kali-virtual-machines
 (i) Uniscan: 
 
 sudo su ------> to enter a root directory
+
 uniscan-gui -------> to open the front end of uniscan scanner where we can mention the url of the respective web site
+
 Uniscan also saves each scan as an HTML file under /usr/share/uniscan/report/ if scan results are needed at a later time.
 
 (ii) Nikto
 
 sudo su ------> to enter a root directory
+
 nikto -h 139.59.5.86 -p 80----->139.59.5.86 is an ip address of the respective web site which is to be scanned
 
 (iii) Burp Suite: 
@@ -34,6 +37,7 @@ With the help of different sub tools present in the GUI, the vulnerabilities sho
 
 
 (iv) Nmap:
+
 nmap ip ------> ip address of a web site which is to be scanned
 
 Note: All the findings via different tools have been mentioned in detail in the attached project report along with the screenshots.
