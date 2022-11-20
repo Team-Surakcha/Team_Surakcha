@@ -65,5 +65,5 @@ Note: The below mentioned steps should be followed to run an attached json file:
 
 Note: For the proposed solution, all the above listed steps and approaches are illustrated in detail in the attached project report. Also, using the mentioned tools,
 different attacks were performed which are illustrated in an attached demo video. In an attached demo video, the usage of different mentioned tools are also being
-demonstrated.
+demonstrated in detail.
 
